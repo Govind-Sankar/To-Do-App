@@ -1,7 +1,6 @@
 # To Do App
 
 A minimalist yet functional **To Do list app** built using **Kotlin** and **Jetpack Compose**. This app allows you to create and manage tasks with a sleek UI, persistent local storage, and support for light/dark themes.
----
 
 <a href = https://github.com/Govind-Sankar/To-Do-App/releases>
 <img src="https://censorship.no/img/github-badge.png" alt="Get it on Github" height="80">
@@ -16,10 +15,7 @@ A minimalist yet functional **To Do list app** built using **Kotlin** and **Jetp
 
 ## 🖼️ Screenshots
 
-<img src="screenshots/Screenshot_1.png" width="300"/>
-<img src="screenshots/Screenshot_2.png" width="300"/>
-<img src="screenshots/Screenshot_3.png" width="300"/>
-<img src="screenshots/Screenshot_4.png" width="300"/>
+<img src="screenshots/Screenshot_1.png" width="150"/> <img src="screenshots/Screenshot_2.png" width="150"/> <img src="screenshots/Screenshot_3.png" width="150"/> <img src="screenshots/Screenshot_4.png" width="150"/>
 
 
 ## 📦 How to Install
