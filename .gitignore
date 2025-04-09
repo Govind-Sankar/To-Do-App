@@ -13,3 +13,21 @@
 .externalNativeBuild
 .cxx
 local.properties
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE files
+.idea/
+*.iml
+
+# Built APKs
+*.apk
+
+# Local config
+local.properties
+
+# Others
+.DS_Store
+*.log
